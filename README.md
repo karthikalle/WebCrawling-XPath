@@ -2,7 +2,6 @@ WebCrawling-XPath
 =================
 
 A topic-specific crawler looks for documents or data matching a particular category here, just like RSS Feeds and the category will be specified as an XPath expression.
-=================
 
 1. Implemented the mercator design for crawling. 
 When the crawling starts, we maintain a urlfrontier called urlList
